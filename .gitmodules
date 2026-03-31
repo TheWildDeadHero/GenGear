@@ -1,0 +1,9 @@
+[submodule "GenGear_Shell"]
+	path = GenGear_Shell
+	url = https://github.com/TheWildDeadHero/GenGear_Shell.git
+[submodule "GenGear_Software"]
+	path = GenGear_Software
+	url = https://github.com/TheWildDeadHero/GenGear_Software.git
+[submodule "GenGear_PCB"]
+	path = GenGear_PCB
+	url = https://github.com/TheWildDeadHero/GenGear_PCB.git
